@@ -84,4 +84,4 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 10. Lastly, remember that this is a challenging activity. Push yourself! If you complete this task, you can safely say that you've gained a strong understanding of the core foundations of data analytics, and it will only get better from here.
 
 
-<img src="/Users/dalyalami/Desktop/Screen Shot 2023-10-02 at 10.35.33 PM.png" alt="Alt text" 
+ 

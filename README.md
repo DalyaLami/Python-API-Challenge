@@ -83,6 +83,11 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 
 10. Lastly, remember that this is a challenging activity. Push yourself! If you complete this task, you can safely say that you've gained a strong understanding of the core foundations of data analytics, and it will only get better from here.
 
+Create a map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city.
+
+<img width="809" alt="Screen Shot 2023-10-02 at 10 35 33 PM" src="https://github.com/DalyaLami/Python-API-Challenge/assets/140478479/cd61ffda-0729-4c86-993a-5e0c60ce29fe">
 
 
-<img src="/Users/dalyalami/Desktop/Screen Shot 2023-10-02 at 10.35.33 PM.png" alt="Alt text"
+Add the hotel name and the country as additional information in the hover message for each city in the map.¶
+
+<img width="809" alt="Screen Shot 2023-10-02 at 10 35 54 PM" src="https://github.com/DalyaLami/Python-API-Challenge/assets/140478479/2269874d-f207-41fe-9046-d6c190446e66">
